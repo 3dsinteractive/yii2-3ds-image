@@ -1,14 +1,14 @@
 {
-    "name": "yurkinx/yii2-image",
+    "name": "yii3ds/yii2-3ds-image",
     "description": "Yii2 extension for image manipulating using Kohana Image Library.",
     "keywords": ["yii2", "extension", "image"],
-    "homepage": "https://github.com/yurkinx/yii2-image",
+    "homepage": "https://github.com/3dsinteractive/yii2-3ds-image",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Yuri Kileev",
-            "email": "kileev@gmail.com"
+            "name": "Karun Jaraslertsuwan",
+            "email": "karun@3dsinteractive.com"
         }
     ],
     "minimum-stability": "dev",
